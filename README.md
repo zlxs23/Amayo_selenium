@@ -19,3 +19,8 @@ TDD 方法 同时使用这两种类型测试应用
 ----------
 **Function Test VS Unit Test**
 目的不同 最终写出的测试代码区别大
+
+----------
+from django.urlresolves import resolve
+**resolve**
+is Django built-in fun to 解析URL 并将其映射到相应de Viewfun.
