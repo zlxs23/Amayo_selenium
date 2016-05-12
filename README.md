@@ -29,3 +29,6 @@ is Django built-in fun to 解析URL 并将其映射到相应de Viewfun.
 1. 在中端中运行UnitTest,看其如何失败的
 2. 在编辑器中改动最少量的代码,让当前失败的测试通过
 ->>>>>>>>>>>>>>>>>>>>>>不停重复Loop
+### 5/12/2016 11:48:58 PM  ###
+modified functiona_test
+增加更多の功能
