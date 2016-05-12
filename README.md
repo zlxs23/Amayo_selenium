@@ -24,3 +24,8 @@ TDD 方法 同时使用这两种类型测试应用
 from django.urlresolves import resolve
 **resolve**
 is Django built-in fun to 解析URL 并将其映射到相应de Viewfun.
+### 5/12/2016 12:50:23 PM  ###
+适应TDD中 "单元测试/编写代码" LOOP
+1. 在中端中运行UnitTest,看其如何失败的
+2. 在编辑器中改动最少量的代码,让当前失败的测试通过
+->>>>>>>>>>>>>>>>>>>>>>不停重复Loop
