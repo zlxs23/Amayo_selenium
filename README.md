@@ -34,3 +34,4 @@ modified functiona_test
 增加更多の功能
 ### 5/13/2016 12:58:47 PM  ###
 将代码进行重构,将html利用templates模板进行重构
+今天终于在图书馆拿到了Python Web开发 测试驱动方法
