@@ -32,3 +32,5 @@ is Django built-in fun to 解析URL 并将其映射到相应de Viewfun.
 ### 5/12/2016 11:48:58 PM  ###
 modified functiona_test
 增加更多の功能
+### 5/13/2016 12:58:47 PM  ###
+将代码进行重构,将html利用templates模板进行重构
