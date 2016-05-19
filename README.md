@@ -35,3 +35,7 @@ modified functiona_test
 ### 5/13/2016 12:58:47 PM  ###
 将代码进行重构,将html利用templates模板进行重构
 今天终于在图书馆拿到了Python Web开发 测试驱动方法
+### 5/19/2016 5:21:44 PM  ###
+把之前第5章做的git reset回去了
+因为看不懂 so 恢复到c027ed8b307bf63b165c51406012f5392b20858d
+希望从新开始 GIT 真他妈是个好东西!
