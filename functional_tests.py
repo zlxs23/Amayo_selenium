@@ -10,7 +10,7 @@ class NewVisitorTest(unittest.TestCase):
 
     def setUp(self):
         self.brower = webdriver.Firefox()
-        self.brower.implicitly_wait(10)  # selenium 常用方法
+        self.brower.implicitly_wait(30)  # selenium 常用方法
 
     def tearDown(self):
         self.brower.quit()

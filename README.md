@@ -1,4 +1,4 @@
-# Learning Selenium with Django #
+﻿# Learning Selenium with Django #
 ### TDD ###
 ### 5/11/2016 11:40:19 PM  ###
 ## init project ##
@@ -39,3 +39,10 @@ modified functiona_test
 把之前第5章做的git reset回去了
 因为看不懂 so 恢复到c027ed8b307bf63b165c51406012f5392b20858d
 希望从新开始 GIT 真他妈是个好东西!
+## 以后要做的就是基于未进行Chp4总结的状态p42在学习 ##
+### TDD流程 ###
+### 6/2/2016 7:58:07 PM  ###
+今天重新 安装 python27 and python35，为了完整适应Amayo_Selenium 重新创建一个新的环境Amayo_selenium
+今天一直出现Unicode 编码与 str 问题
+### 6/2/2016 9:35:43 PM  ###
+我觉得这本书我得推到重来！！！！！！！！！！！！！！！！！
